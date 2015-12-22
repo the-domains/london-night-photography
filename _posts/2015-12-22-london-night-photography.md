@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Photos of London at Night by London Night Photographer, and Wayfarer - Mark Paulda. Professional Commercial Photographer, Best Selling Author, and World Traveller. London Night Photography. Buy London Stock Photos'
-datePublished: '2015-12-22T04:01:57.844Z'
-dateModified: '2015-12-22T04:01:54.057Z'
+datePublished: '2015-12-22T04:10:45.960Z'
+dateModified: '2015-12-22T04:10:40.087Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>London Night Photography</h1><p>Photos of London at Night by London Night Photographer, and Wayfarer - Mark Paulda. Professional Commercial Photographer, Best Selling Author, and World Traveller. London Night Photography. Buy London Stock Photos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fcd6d828e9bfff8cfbbf3dc58e41d7ed9fa65b8.jpg" /></article>
+<article style=""><h1>London Stock Photography</h1><p>London Stock Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0246b6b83486a5e77dd5606c3b3fda8e81e6f6a4.jpg" /></article>
