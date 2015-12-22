@@ -17,8 +17,8 @@ keywords:
   - ways
   - please
 description: 'Whether you are a beginner, a seasoned photographer, or somewhere in between, London Night Photographer, Mark Paulda offers private one-on-one night photography workshops in Central London. The workshops are tailored to your interests, and we will centre our attention in an area of London which you would most like to photograph.'
-datePublished: '2015-12-22T04:05:42.389Z'
-dateModified: '2015-12-22T04:05:38.969Z'
+datePublished: '2015-12-22T04:12:33.398Z'
+dateModified: '2015-12-22T04:12:16.315Z'
 author: []
 related: []
 app_links: []
