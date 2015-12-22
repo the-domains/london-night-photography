@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[London Night Photography]]></title>
         <description><![CDATA[London Night Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/london-night-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 00:04:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 00:20:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/london-night-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.wixstatic.com/media/8c75d1_0c7f9a659ff3405b871c0bfed81d5fbe.png/v1/fit/w_1096,h_209,usm_0.66_1.00_0.01/8c75d1_0c7f9a659ff3405b871c0bfed81d5fbe.png">]]></description>
+            <link>http://www.thelondonwayfarer.com/</link>
+            <guid isPermaLink="false">8f1fc8ac-6dc0-4d79-8e41-dbe34f932b15</guid>
+            <pubDate>Tue, 22 Dec 2015 00:19:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The London Wayfarer]]></title>
-            <description><![CDATA[<article><h1>The London Wayfarer</h1><p>The London Night Photographer, Mark Paulda.  The Instagram Feed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f9fd4526584d1be9be145daf391592ba020f70.jpg"></article>]]></description>
-            <link>undefined4e0d4214-6fa6-4dee-ac12-2b14765d841b/index.html</link>
+            <description><![CDATA[<article><h1>The London Wayfarer</h1><p>The London Night Photographer, Mark Paulda.  The Instagram Feed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e34fab66308ac7be8f1ca206a987162eaa13b5e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/london-night-photography/4e0d4214-6fa6-4dee-ac12-2b14765d841b/index.html</link>
             <guid isPermaLink="false">4e0d4214-6fa6-4dee-ac12-2b14765d841b</guid>
             <pubDate>Tue, 22 Dec 2015 00:04:07 GMT</pubDate>
         </item>
