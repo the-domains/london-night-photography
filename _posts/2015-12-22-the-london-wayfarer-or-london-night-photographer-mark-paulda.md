@@ -17,8 +17,8 @@ keywords:
   - millennium
   - cityscape
 description: Biography of London Night Photographer Mark Paulda. Information about the London Wayfarer.
-datePublished: '2015-12-22T04:00:36.332Z'
-dateModified: '2015-12-22T04:00:32.586Z'
+datePublished: '2015-12-22T04:09:25.146Z'
+dateModified: '2015-12-22T04:09:17.650Z'
 author: []
 related: []
 app_links: []
