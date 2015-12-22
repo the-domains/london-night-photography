@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[London Night Photography]]></title>
+        <description><![CDATA[London Night Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 00:04:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The London Wayfarer]]></title>
+            <description><![CDATA[<article><h1>The London Wayfarer</h1><p>The London Night Photographer, Mark Paulda.  The Instagram Feed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f9fd4526584d1be9be145daf391592ba020f70.jpg"></article>]]></description>
+            <link>undefined4e0d4214-6fa6-4dee-ac12-2b14765d841b/index.html</link>
+            <guid isPermaLink="false">4e0d4214-6fa6-4dee-ac12-2b14765d841b</guid>
+            <pubDate>Tue, 22 Dec 2015 00:04:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
