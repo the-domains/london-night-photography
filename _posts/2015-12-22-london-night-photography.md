@@ -11,13 +11,13 @@ description: 'Photos of London at Night by London Night Photographer, and Wayfar
 app_links: []
 isBasedOnUrl: 'http://www.londonphotos.co/'
 title: London Night Photography
-datePublished: '2015-12-22T03:55:43.427Z'
-dateModified: '2015-12-22T03:55:18.140Z'
+datePublished: '2015-12-22T03:55:56.415Z'
+dateModified: '2015-12-22T03:55:50.992Z'
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 authors: []
 sourcePath: _posts/2015-12-22-london-night-photography.md
 published: true
